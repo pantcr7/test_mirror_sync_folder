@@ -1,0 +1,3 @@
+[submodule "flask_db_test"]
+	path = flask_db_test
+	url = https://github.com/pantcr7/flask_db_test.git
